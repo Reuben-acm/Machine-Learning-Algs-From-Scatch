@@ -1,4 +1,6 @@
 
-#### If the files in this folder do no display the HTML Please use the link below:
+### As a temporary Workaround for displaying the Pluto Notebook in this folder: Please use the link below:
 
-[PerceptronALG](https://htmlpreview.github.io/?https://github.com/Reuben-AmI/Machine-Learning/blob/main/Julia/Perceptron/PerceptronAlg.html)
+
+
+[PerceptronALG PlutoNotebook](https://htmlpreview.github.io/?https://github.com/Reuben-AmI/Machine-Learning/blob/main/Julia/Perceptron/PerceptronAlg.html)
