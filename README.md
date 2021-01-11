@@ -1,7 +1,7 @@
 # Machine-Learning
 
 ---
-This repository contains the projects that were learned in Machine Learning 4319.The purpose of this repository is to detail the process of creating different machine learning algorithms from scrtach. Then implementing them on different datasets to detail how these algorithms perform.
+This repository contains the projects that were learned in Machine Learning 4319.The purpose of this repository is to detail the process of creating different machine learning algorithms from scratch. Then implementing them on different datasets to detail how these algorithms perform.
 
 The notebooks where created with Pluto and Jupyter.Pluto is a Julia programming environment designed for interactivity and quick experiments.
 
